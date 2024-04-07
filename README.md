@@ -32,7 +32,7 @@
 <img src="https://ih1.redbubble.net/image.815350031.4911/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="javascript" width="40" height="40"/>
 
 <a href="https://www.w3schools.com/JavaScript/" target="_blank" rel="noreferrer">
-<img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/3067767/settings_images/omx3KZGSamzipD0jXUwg_file.jpg" alt="bootstrap" width="40" height="40"/>
+<img src="https://www.rlogical.com/wp-content/uploads/2023/03/icon-botsrap-1.webp" alt="bootstrap" width="40" height="40"/>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/> 
