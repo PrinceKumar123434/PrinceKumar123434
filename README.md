@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prince kumar" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/726/347/png-clipart-linkedin-linkedin-thumbnail.png" alt="prince kumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prince kumar" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/848/342/png-transparent-hackerrank-logo-logos-logos-and-brands-icon-thumbnail.png" alt="prince kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
