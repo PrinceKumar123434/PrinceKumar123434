@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" alt="code" width="370" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191108193743/10-Useful-Chrome-Extension-For-Web-Developers-And-Designers.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekumar123434&label=Profile%20views&color=0e75b6&style=flat" alt="princekumar123434" /> </p>
 
