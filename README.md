@@ -18,6 +18,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"></a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fwordpress-round-logo-png-images-transparent-hd-photo-clipart--577023771023805263%2F&psig=AOvVaw0k6iK6DkL0491sydcUyO2_&ust=1712601712917000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNj8_9jgsIUDFQAAAAAdAAAAABAE" alt="html5" width="40" height="40"/> 
+
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" alt="html5" width="40" height="40"/> 
   
