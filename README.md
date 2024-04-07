@@ -17,7 +17,30 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png" alt="css3" width="40" height="40"/> <a href="https://www.w3schools.com/JavaScript/" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript/js-circle-black-design-logo-30.png" alt="javascript" width="40" height="40"/><a href="https://www.w3schools.com/Bootstrap/" target="_blank" rel="noreferrer"><img src="https://cutewallpaper.org/24/bootstrap-logo-png/bootstrap-5-alpha-what39s-new-rlogical-techsoft-pvt-ltd.png" alt="javascript" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://e1.pngegg.com/pngimages/896/62/png-clipart-metrostation-java-icon-thumbnail.png" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left"></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" alt="html5" width="40" height="40"/> 
+  
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png" alt="css3" width="40" height="40"/> 
+  
+<a href="https://www.w3schools.com/JavaScript/" target="_blank" rel="noreferrer">
+<img src="https://www.freepnglogos.com/uploads/javascript/js-circle-black-design-logo-30.png" alt="javascript" width="40" height="40"/>
+
+<a href="https://www.w3schools.com/Bootstrap/" target="_blank" rel="noreferrer">
+<img src="https://cutewallpaper.org/24/bootstrap-logo-png/bootstrap-5-alpha-what39s-new-rlogical-techsoft-pvt-ltd.png" alt="javascript" width="40" height="40"/>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://e1.pngegg.com/pngimages/896/62/png-clipart-metrostation-java-icon-thumbnail.png" alt="java" width="40" height="40"/> 
+  
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/> 
+  
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="react" width="40" height="40"/> 
+  
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princekumar123434&show_icons=true&locale=en&layout=compact" alt="princekumar123434" /></p>
 
