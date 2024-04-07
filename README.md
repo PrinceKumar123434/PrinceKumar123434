@@ -29,7 +29,7 @@
 <img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png" alt="css3" width="40" height="40"/> 
   
 <a href="https://www.w3schools.com/JavaScript/" target="_blank" rel="noreferrer">
-<img src="[https://www.freepnglogos.com/uploads/javascript/js-circle-black-design-logo-30.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGk1SGh7vcTvN8HCQ4nEOap373UZmIEeIrzgdKS7gHWWFtuOfXFZ39ikRzGuiLovv8NQI&usqp=CAU)" alt="javascript" width="40" height="40"/>
+<img src="https://ih1.redbubble.net/image.815350031.4911/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="javascript" width="40" height="40"/>
 
 <a href="https://www.w3schools.com/Bootstrap/" target="_blank" rel="noreferrer">
 <img src="https://cutewallpaper.org/24/bootstrap-logo-png/bootstrap-5-alpha-what39s-new-rlogical-techsoft-pvt-ltd.png" alt="javascript" width="40" height="40"/>
