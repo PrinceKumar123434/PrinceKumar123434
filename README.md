@@ -31,8 +31,8 @@
 <a href="https://www.w3schools.com/JavaScript/" target="_blank" rel="noreferrer">
 <img src="https://ih1.redbubble.net/image.815350031.4911/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="javascript" width="40" height="40"/>
 
-<a href="https://www.w3schools.com/Bootstrap/" target="_blank" rel="noreferrer">
-<img src="https://cutewallpaper.org/24/bootstrap-logo-png/bootstrap-5-alpha-what39s-new-rlogical-techsoft-pvt-ltd.png" alt="javascript" width="40" height="40"/>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+<img src="https://www.rlogical.com/wp-content/uploads/2023/03/icon-botsrap-1.webp" alt="Bootstrap" width="40" height="40"/>  </p>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://e1.pngegg.com/pngimages/896/62/png-clipart-metrostation-java-icon-thumbnail.png" alt="java" width="40" height="40"/> 
@@ -43,8 +43,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="react" width="40" height="40"/> 
   
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princekumar123434&show_icons=true&locale=en&layout=compact" alt="princekumar123434" /></p>
 
