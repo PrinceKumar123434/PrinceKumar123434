@@ -41,7 +41,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Php-icon2.svg/1024px-Php-icon2.svg.png" alt="php" width="40" height="40"/> 
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://e1.pngegg.com/pngimages/896/62/png-clipart-metrostation-java-icon-thumbnail.png" alt="java" width="40" height="40"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-c5gmQXgElvGLZyszRQuTSejdpxNJqDJem1EU84rokina3zZBp7CgqDahBNVFay82a98&usqp=CAU" alt="laravel" width="40" height="40"/> 
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://e1.pngegg.com/pngimages/896/62/png-clipart-metrostation-java-icon-thumbnail.png" alt="java" width="40" height="40"/> 
