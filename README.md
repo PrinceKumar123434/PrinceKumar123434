@@ -35,7 +35,7 @@
 <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon-thumbnail.png" alt="bootstrap" width="40" height="40"/>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://bahiaxip.com/image/post/main/C1d9E1QZee7L20VlWMbbYUdvxgk2OmrxI1mhu0Eh.jpeg" alt="mysql" width="40" height="40"/> 
+<img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="mysql" width="40" height="40"/> 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Php-icon2.svg/1024px-Php-icon2.svg.png" alt="php" width="40" height="40"/> 
