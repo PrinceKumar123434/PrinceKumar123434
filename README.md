@@ -38,7 +38,7 @@
 <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="mysql" width="40" height="40"/> 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-php-100-1175128.png" alt="php" width="40" height="40"/> 
+<img src="https://i.pinimg.com/474x/09/35/a9/0935a9d5e417650eac00bdf04dba5c05.jpg" alt="php" width="40" height="40"/> 
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-c5gmQXgElvGLZyszRQuTSejdpxNJqDJem1EU84rokina3zZBp7CgqDahBNVFay82a98&usqp=CAU" alt="laravel" width="40" height="40"/> 
