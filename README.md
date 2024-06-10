@@ -38,6 +38,9 @@
 <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/> 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://img-c.udemycdn.com/course/750x422/5167442_873c.jpg" alt="mysql" width="40" height="40"/> 
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Php-icon2.svg/1024px-Php-icon2.svg.png" alt="php" width="40" height="40"/> 
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
