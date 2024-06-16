@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prince kumar" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/726/347/png-clipart-linkedin-linkedin-thumbnail.png" alt="prince kumar" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/prince kumar" target="blank" /><img align="center" src="https://e7.pngegg.com/pngimages/726/347/png-clipart-linkedin-linkedin-thumbnail.png" alt="prince kumar" height="30" width="30" />
 
   <a href="https://linkedin.com/in/prince kumar" target="blank"><img align="center" src="https://thumbs.dreamstime.com/b/web-180643538.jpg" alt="prince kumar" height="30" width="30" /></a>
 
-  <a href="https://linkedin.com/in/prince kumar" target="blank"><img align="center" src="https://c8.alamy.com/comp/PXHB55/phone-icon-one-missed-call-sign-white-on-green-background-PXHB55.jpg" alt="prince kumar" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/prince kumar" target="blank" /><img align="center" src="https://c8.alamy.com/comp/PXHB55/phone-icon-one-missed-call-sign-white-on-green-background-PXHB55.jpg" alt="prince kumar" height="30" width="30" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
