@@ -49,7 +49,9 @@
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://e1.pngegg.com/pngimages/896/62/png-clipart-metrostation-java-icon-thumbnail.png" alt="java" width="40" height="40"/> 
-  
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYesav8DRn-7_QA_dSMrVZ_fPN8_SERaKuhO3RqmQ1JXCsX7rVX-OZKK7QBOHbxlegk_8&usqp=CAU" alt="JQuery" width="40" height="40"/> 
 </p>
   
 
