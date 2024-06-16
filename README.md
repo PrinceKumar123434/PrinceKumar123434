@@ -37,7 +37,7 @@
 <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon-thumbnail.png" alt="bootstrap" width="40" height="40"/>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="mysql" width="40" height="40"/> 
+<img src="https://p1.hiclipart.com/preview/64/828/885/mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-png-clipart.jpg" alt="mysql" width="40" height="40"/> 
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://i.pinimg.com/474x/09/35/a9/0935a9d5e417650eac00bdf04dba5c05.jpg" alt="php" width="40" height="40"/> 
