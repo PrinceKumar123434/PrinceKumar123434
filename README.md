@@ -13,9 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prince kumar" target="blank" /><img align="center" src="https://e7.pngegg.com/pngimages/726/347/png-clipart-linkedin-linkedin-thumbnail.png" alt="prince kumar" height="30" width="30" /> &emsp
-<img align="center" src="https://thumbs.dreamstime.com/b/web-180643538.jpg" alt="prince kumar" height="30" width="30" /> 
-"&emsp"
+<a href="https://linkedin.com/in/prince kumar" target="blank" /><img align="center" src="https://e7.pngegg.com/pngimages/726/347/png-clipart-linkedin-linkedin-thumbnail.png" alt="prince kumar" height="30" width="30" />     
+<img align="center" src="https://thumbs.dreamstime.com/b/web-180643538.jpg" alt="prince kumar" height="30" width="30" />     
 <img align="center" src="https://i.pinimg.com/originals/da/9d/94/da9d949eba17cb5f2c0de62be75fef1c.png" alt="prince kumar" height="30" width="30" />
 </p>
 
