@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekumar123434&label=Profile%20views&color=0e75b6&style=flat" alt="princekumar123434" /> </p>
 
-- 🌱 I’m currently learning **Java,Html,Css,Javascript,Mysql,Bootstrap**
+- 🌱 I’m currently working **  HTML , CSS , JAVASCRIPT , MYSQL , BOOTSTRAP , JQUERY , PHP  , WORDPRESS **
+
+- 🌱 I’m  learning ** JAVA , HTML , CSS , JAVASCRIPT , MYSQL , BOOTSTRAP , JQUERY , PHP , LARAVEL , WORDPRESS **
 
 - 👨‍💻 All of my projects are available at [PrinceKumar123434]
 
